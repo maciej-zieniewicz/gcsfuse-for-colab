@@ -1,2 +1,2 @@
 # gcsfuse-for-colab
-Repository for gscfuse test
+Repository for connecing GSS bucket with Colab VM.
